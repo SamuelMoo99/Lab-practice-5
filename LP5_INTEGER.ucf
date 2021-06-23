@@ -1,0 +1,27 @@
+
+#NET "clock" LOC = P38NET "clock" LOC = P38;
+#NET "an" LOC = P34
+NET "an" LOC = P34;
+#NET "display<0>" LOC = P25
+NET "display<0>" LOC = P25;
+#NET "display<1>" LOC = P16
+NET "display<1>" LOC = P16;
+#NET "display<2>" LOC = P23
+NET "display<2>" LOC = P23;
+#NET "display<3>" LOC = P21
+NET "display<3>" LOC = P21;
+#NET "display<4>" LOC = P20
+NET "display<4>" LOC = P20;
+NET "display<5>" LOC = P17;
+#NET "display<6>" LOC = P30
+NET "display<6>" LOC = P30;
+#NET "leds<0>" LOC = P15
+NET "leds<0>" LOC = P15;
+#NET "leds<1>" LOC = P14
+NET "leds<1>" LOC = P14;
+#NET "leds<2>" LOC = P8
+NET "leds<2>" LOC = P8;
+#NET "leds<3>" LOC = P7
+NET "leds<3>" LOC = P7;
+#NET "reset" LOC = P36
+NET "reset" LOC = P36;
