@@ -60,7 +60,7 @@ ARCHITECTURE behavior OF LP5_INTEGER_TB IS
    signal an : std_logic;
 
    -- Clock period definitions
-   constant clock_period : time := 10 ns;
+   constant clock_period : time := 20 ns;
  
 BEGIN
  
